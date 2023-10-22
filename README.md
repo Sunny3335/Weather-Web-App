@@ -1,0 +1,1 @@
+# A weather app is a web application designed to provide users with up-to-date and accurate information about current and forecasted weather conditions.
